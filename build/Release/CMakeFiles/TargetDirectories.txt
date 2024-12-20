@@ -1,5 +1,0 @@
-/home/user1/Project_ML/DPO_C++/DZ3/CppDevCourse-hw3_Zagorodniy-Serafim/build/Release/CMakeFiles/main.dir
-/home/user1/Project_ML/DPO_C++/DZ3/CppDevCourse-hw3_Zagorodniy-Serafim/build/Release/CMakeFiles/two-sum-test.dir
-/home/user1/Project_ML/DPO_C++/DZ3/CppDevCourse-hw3_Zagorodniy-Serafim/build/Release/CMakeFiles/test.dir
-/home/user1/Project_ML/DPO_C++/DZ3/CppDevCourse-hw3_Zagorodniy-Serafim/build/Release/CMakeFiles/edit_cache.dir
-/home/user1/Project_ML/DPO_C++/DZ3/CppDevCourse-hw3_Zagorodniy-Serafim/build/Release/CMakeFiles/rebuild_cache.dir

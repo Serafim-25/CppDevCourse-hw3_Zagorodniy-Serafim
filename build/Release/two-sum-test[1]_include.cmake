@@ -1,5 +1,0 @@
-if(EXISTS "/home/user1/Project_ML/DPO_C++/DZ3/CppDevCourse-hw3_Zagorodniy-Serafim/build/Release/two-sum-test[1]_tests.cmake")
-  include("/home/user1/Project_ML/DPO_C++/DZ3/CppDevCourse-hw3_Zagorodniy-Serafim/build/Release/two-sum-test[1]_tests.cmake")
-else()
-  add_test(two-sum-test_NOT_BUILT two-sum-test_NOT_BUILT)
-endif()

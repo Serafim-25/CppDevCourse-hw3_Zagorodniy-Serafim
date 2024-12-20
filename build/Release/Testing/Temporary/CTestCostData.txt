@@ -1,8 +1,0 @@
-TwoSumsTest.AllPositive 1 0.0198005
-TwoSumsTest.NoSum 1 0.0225308
-TwoSumsTest.WithZero 1 0.0220678
-TwoSumsTest.MultiplePairs 1 0.0223011
-TwoSumsTest.MultiplePairsSameElement 1 0.0267141
-TwoSumsTest.LastElement 1 0.0259685
-two-sum-test 1 0.0232964
----
